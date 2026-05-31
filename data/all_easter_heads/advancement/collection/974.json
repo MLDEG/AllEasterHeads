@@ -1,0 +1,59 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"name": "",
+					"id": [
+						0,
+						0,
+						0,
+						0
+					],
+					"properties": [
+						{
+							"name": "textures",
+							"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ5ZmE2YjBmZjdhMjlmOGI5YWU3MmY2MWY2YWJlYzA1OTlkYWFmMWFkNzZjMDhjNWVmMzExNzJiZDM1ZmE4NiJ9fX0="
+						}
+					]
+				}
+			}
+		},
+		"title": "TheFantasio974",
+		"description": "Rename a Wandering Trader \"thefantasio974\" and kill hime while he is invisible.",
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"parent": "all_easter_heads:collection/root",
+	"criteria": {
+		"thefantasio974": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ5ZmE2YjBmZjdhMjlmOGI5YWU3MmY2MWY2YWJlYzA1OTlkYWFmMWFkNzZjMDhjNWVmMzExNzJiZDM1ZmE4NiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

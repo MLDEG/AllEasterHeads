@@ -1,0 +1,19 @@
+{
+   "pack": {
+      "min_format": 101,
+      "max_format": 999,
+      "description": "All Easter Heads",
+      "author": "MLDEG",
+      "last_update": "2026-05-31"
+   },
+   "overlays": {
+      "entries": [
+         {
+            "directory": "overlay-101.1-",
+            "__comment": "From 26.1.1 to #",
+            "min_format": 101.1,
+            "max_format": 999
+         }
+      ]
+   }
+}

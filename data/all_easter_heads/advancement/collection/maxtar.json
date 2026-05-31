@@ -1,0 +1,59 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"name": "",
+					"id": [
+						0,
+						0,
+						0,
+						0
+					],
+					"properties": [
+						{
+							"name": "textures",
+							"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzI1ODE5NCwKICAicHJvZmlsZUlkIiA6ICJjNDg2OTZlYmU4NzA0ODc1ODliOWE0ZmNmNDZhNjVlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXh0YXIwNyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODNkOWI5YTBhNzgyZmJlMjNjOTJjOWM4YzY2MjQwMWM5NmNiZmM4NTZkOWFiYzlkMTUyNjA0NmYxZTkzN2E4IgogICAgfQogIH0KfQ=="
+						}
+					]
+				}
+			}
+		},
+		"title": "Maxtar07",
+		"description": "Rename a Mooshroom \"maxtar07\".",
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"parent": "all_easter_heads:collection/maki",
+	"criteria": {
+		"maxtar": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzI1ODE5NCwKICAicHJvZmlsZUlkIiA6ICJjNDg2OTZlYmU4NzA0ODc1ODliOWE0ZmNmNDZhNjVlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXh0YXIwNyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODNkOWI5YTBhNzgyZmJlMjNjOTJjOWM4YzY2MjQwMWM5NmNiZmM4NTZkOWFiYzlkMTUyNjA0NmYxZTkzN2E4IgogICAgfQogIH0KfQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

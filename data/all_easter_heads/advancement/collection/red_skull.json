@@ -1,0 +1,59 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"name": "",
+					"id": [
+						0,
+						0,
+						0,
+						0
+					],
+					"properties": [
+						{
+							"name": "textures",
+							"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I4NTJiYTE1ODRkYTllNTcxNDg1OTk5NTQ1MWU0Yjk0NzQ4YzRkZDYzYWU0NTQzYzE1ZjlmOGFlYzY1YzgifX19"
+						}
+					]
+				}
+			}
+		},
+		"title": "Red Skull",
+		"description": "Rename a Wither Skeleton \"red skull\".",
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"parent": "all_easter_heads:collection/root",
+	"criteria": {
+		"red_skull": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I4NTJiYTE1ODRkYTllNTcxNDg1OTk5NTQ1MWU0Yjk0NzQ4YzRkZDYzYWU0NTQzYzE1ZjlmOGFlYzY1YzgifX19"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

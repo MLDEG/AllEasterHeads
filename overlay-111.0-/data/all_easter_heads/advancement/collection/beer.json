@@ -1,0 +1,57 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"id": [
+						0,
+						0,
+						0,
+						0
+					],
+					"properties": [
+						{
+							"name": "textures",
+							"value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTA4NTYwNDMyNSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg5NWRhMzNjMTA4ZTZiN2FkMzhlMjAzZTg3Zjk2YTFmNzZmMmNmOGI3NTc0ZWZmNmFmZjM4NGQ4M2UyOWFkMCIKICAgIH0KICB9Cn0="
+						}
+					]
+				}
+			}
+		},
+		"title": "Beer",
+		"description": "Rename a Mule \"beer\".",
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"parent": "all_easter_heads:collection/ayr0b0t",
+	"criteria": {
+		"beer": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTA4NTYwNDMyNSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg5NWRhMzNjMTA4ZTZiN2FkMzhlMjAzZTg3Zjk2YTFmNzZmMmNmOGI3NTc0ZWZmNmFmZjM4NGQ4M2UyOWFkMCIKICAgIH0KICB9Cn0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

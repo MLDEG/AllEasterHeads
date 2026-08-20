@@ -1,0 +1,57 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"id": [
+						0,
+						0,
+						0,
+						0
+					],
+					"properties": [
+						{
+							"name": "textures",
+							"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzM4MDgwOCwKICAicHJvZmlsZUlkIiA6ICIwZjM1Y2Q0NTQ3Mjg0NTkyOTdiZTFkMWQyNDcxNzZkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJjb2RvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2YzZhZjA4YWExM2ZkOTc5ZjY3NGM5MmMxMDcwY2MyYzVlMDE4NmFhMmEzMTg2ZGZkMGNiOGQ2YTcyMDA5ZGYiCiAgICB9CiAgfQp9"
+						}
+					]
+				}
+			}
+		},
+		"title": "Darcodo",
+		"description": "Rename a Phantom \"darcodo\".",
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"parent": "all_easter_heads:collection/coconut",
+	"criteria": {
+		"darcodo": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzM4MDgwOCwKICAicHJvZmlsZUlkIiA6ICIwZjM1Y2Q0NTQ3Mjg0NTkyOTdiZTFkMWQyNDcxNzZkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJjb2RvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2YzZhZjA4YWExM2ZkOTc5ZjY3NGM5MmMxMDcwY2MyYzVlMDE4NmFhMmEzMTg2ZGZkMGNiOGQ2YTcyMDA5ZGYiCiAgICB9CiAgfQp9"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}

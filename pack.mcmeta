@@ -13,6 +13,12 @@
             "__comment": "From 26.1.1 to #",
             "min_format": 101.1,
             "max_format": 999
+         },
+         {
+            "directory": "overlay-111.0-",
+            "__comment": "From 26.3 to #",
+            "min_format": 111.0,
+            "max_format": 999
          }
       ]
    }

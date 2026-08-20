@@ -1,0 +1,1068 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:name_tag"
+		},
+		"title": "Easter Egg Heads Collection",
+		"description": "Collect Them All",
+		"background": "minecraft:block/sculk_catalyst_top",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"frame": "challenge"
+	},
+	"criteria": {
+		"thefantasio974": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ5ZmE2YjBmZjdhMjlmOGI5YWU3MmY2MWY2YWJlYzA1OTlkYWFmMWFkNzZjMDhjNWVmMzExNzJiZDM1ZmE4NiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"ahl": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzgyODc2MCwKICAicHJvZmlsZUlkIiA6ICIwODI1OWUwMDhkMWE0NGY0YWMxYmRkNTE5MDVjNGRlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGV2YWhsaWVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJjMTRkZmZkYzZkNDg5NDg0YTc0MmQyYjYzYzNmZjcxMDk1MmYxODg4ZTdmNGJiMjIxZDY5ZDVkODA1MzI4NjMiCiAgICB9CiAgfQp9"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"aled": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI5NDgyNzkzODlhNTkzNGM0MWNiODQ3NGRkMGY2ZWY2ZmViOGFhMTkxNzZmNzhiZTVjMDVhY2U1YTg0MWZlIn19fQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"amethyst_pot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg0YTI3NTU2ZDdhNjc4N2M4YjJhZjhkMjIyMDQ4NzUxODhhNzgyYzYwNDFjNTkwYjIwYjdkNjE0YTk0YTY1ZiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"ayr0b0t": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE4MDJmMjdmNDAxYWM4MzVhODI1NTcyN2NmNzg0YWM3MzUyNjg4YjA5NWZkZWUwYWI5MWY1NGE2ODNjOTM0MiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"beer": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTA4NTYwNDMyNSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg5NWRhMzNjMTA4ZTZiN2FkMzhlMjAzZTg3Zjk2YTFmNzZmMmNmOGI3NTc0ZWZmNmFmZjM4NGQ4M2UyOWFkMCIKICAgIH0KICB9Cn0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"bob": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk3ZGEyMjM3MjY5MDQwMGQzMDVkOGIxMmE3MGE1OWYzZWQxNTBmMmQwNmM1YjEzYWVhZGU0N2ZiZWE3Njg1OCJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"boiboite": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk5MmU0YThmNDNjNzdhYzJlMmQ3OTJkOTYwNGY2MWYzNDM4N2M4NzdhYmEzNzEyZTQwNDdiNzQwYzU3OCJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"cheh": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVmMzU5OWMxNDVkMzcyZWE5ODY5ODc3NjNlMjQ5OGQyMWI1NjdkNzFmYmY3ZTIzZDVmYTgxOTdlOWFkMWQifX19"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"choco": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk2MDMzNWU3OTgxZTNjODJiMDNhNTliY2U4YWFkMDRiODkzZWZjOTkyOGU4MjU0OTgxOTlkNTk2MjcwNzkifX19"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"claptrap": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmRmZTA5MGQyZmZkNzJlNjFhMTU1Yzc4N2RhZTNiMWYyMTdiZmJiMzBmYjhlZGQ5NGU5ZjBlNzZkZmNiMTBhZiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"coalchan": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmUzMDRjYjJiMTZjZmY4YWQwNWEzYzhmNzM4ODA5OTM2NjJhOTllMzc0MDRhYmFlYTY1ZGI1MzQ4MDVlNTY2MyJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"coconut": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMxZjI0ZDFiNWU2Y2ViYjY1YTY3YWQzYjJmM2YyZmM5Y2EyOWZiMDczN2FhNjJiNWQ3M2JmMzM4ZDIxNDFmNSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"darcodo": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzM4MDgwOCwKICAicHJvZmlsZUlkIiA6ICIwZjM1Y2Q0NTQ3Mjg0NTkyOTdiZTFkMWQyNDcxNzZkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJjb2RvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2YzZhZjA4YWExM2ZkOTc5ZjY3NGM5MmMxMDcwY2MyYzVlMDE4NmFhMmEzMTg2ZGZkMGNiOGQ2YTcyMDA5ZGYiCiAgICB9CiAgfQp9"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"friendly_wither": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjE1MWJlYzhmOTFlZjkzYzYwY2Y0MGE5OGFjYmJlYjE3ZjYzNzU3MjVmMDBkNDQzM2ExMThmMTAxMGIyOThiIn19fQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"fries": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc0NTNmZmVlYjlmMjZjZDNiNjgyOTQyMTUzZjZhOTM4YTNkNzAyM2Y5Y2ZkZWM3YjI2NmRkM2UyNmRmYTkyMyJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"frozen": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQxMDA2ZTIzMzYwNDY4YTdjMzE0YThmNTc2OTJmMjUzZTM5MGU3NTY4OWQ4MTNkNWZkZTJiOGM1NDZmOGM2YSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"golden_allay": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJhMjJmMjE3MjhlZmYxNzZlNzhkNGNjMTg3MDI4M2I5YTc5OTMwMmJhYThhZjkxN2ZlZTM3OGRkYzQ5OTJjNyJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"green_axolotl": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI5MGMxMTU1MzExMjAwOWM2NzcxNjcyMjE5MWQ5NDg5YjM3MzQ2ZmVjZWE5ZmYwN2E0OGUzMzliNTUxYTkwMiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"guano": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdlYTRjMDE3ZTM0NTZjZjA5YTVjMjYzZjM0ZDNjYzVmNDE1NzdiNzRkNjBmNmY4MTk2YzYwZTA3ZjhjNWE5NiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"hermitcrab": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg1ZTY4MzRhNGJmMjZhNjUyNmY3Y2FjNGY2ZWFhOWY3ZmE3N2RiOGMxNDM1M2E4MTU4MmI1ZjY5OSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"luma": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzUzMjdkZjgzMWUzMWU0YTkyOGE3OGE3NDA4NDQyODFkZjk1ZDIyMjNjZDU4MjUwNTllYmEzNWUxNDhiMTM5YiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"maki": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBlYzU4NWZhMzA0NGNjYmM5NDQ0MWM4YTc5YjRiOGMyM2VhYTZkZGI0ZDUxOTk0OTgyNmM1MWVmMzM1MDU5In19fQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"maxtar": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzI1ODE5NCwKICAicHJvZmlsZUlkIiA6ICJjNDg2OTZlYmU4NzA0ODc1ODliOWE0ZmNmNDZhNjVlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXh0YXIwNyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODNkOWI5YTBhNzgyZmJlMjNjOTJjOWM4YzY2MjQwMWM5NmNiZmM4NTZkOWFiYzlkMTUyNjA0NmYxZTkzN2E4IgogICAgfQogIH0KfQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"me_controller": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU4NzUxNjlkMWRiYjY5N2RmZTQ3MDE0NmU4YzQ4NzgwNjhmZGZlN2FiMTQ3OGE4MGMxZTc5MTc0MzZlNDgxYyJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"mew": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4YzVkZmZkMDU0ZmM3ZDFhODU2Y2M3NmQ1M2I4ZmM4MGUzZWE0Mzg5NzU2ZTkzNjI4OTkxMTk4OGZiNjVmIn19fQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"milk": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUxYzAzYjVlNjU5Mjc1ZWQ4NWNhMmM4YWQ5ODhjNzU1Y2NmYmE0NWFmZjNmNmQ4ZDZmMjczOGIwOTY3Y2NjZCJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"moobloom": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE5MDgyNzVmYmE0ZmNlMzc1MjEzMjNiYzg4OWI3MjdhNjY5MmQyNDFiNTBmMmIwNzI1NzYwNTY0MjRkZWNmNiJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"mrfexfull002": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJkNGI1MzU1MjljNDgyNTVhODM2Yzg0ZGJlYWU4MmMzZTZmNTAxNzc4MWY2MmNjZGExMTI1NThmMmI0NTE0YSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"orlox": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NjkzNDM3NiwKICAicHJvZmlsZUlkIiA6ICIxYWM2OGQ1ZWYyMWY0YmJiYTBlYWE5ZTgxNTkwODcxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmxveCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Nzg0MjA3Y2QzMWJiM2FmMmY4MzA2ZjZjZjViYmQ1MjVlN2RjMWExNmI2NTdlM2UyOGIwOGY1OTI4NmVmMzUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"pikxee": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE2NzcwMjQ2MywKICAicHJvZmlsZUlkIiA6ICI0ODc0ZDQ0NzgxMzA0MWJmODAyMTAyZTlkNmRmNmM2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaWt4ZWUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFhZGIxNGQzODljYWIwYTAyMDVlOTZlNTA5MDg0YmRkMzU4ODVkZWFhZjk4NmNiYjllNzQ0MjY3MTNjNWE1MiIKICAgIH0KICB9Cn0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"rayenryuu": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTU0NjkwNTgxOCwKICAicHJvZmlsZUlkIiA6ICI4ODQzMjE3ZDgzODU0M2EwYWEwODJkM2E3YWE1YTk2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXllbnJ5dXUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjljMGVmNzlmYjFmMWRmYzdhNTdiNGRmZWM5YmExY2I5MjQ5NTM2MWY0MDZkOGQ5YWMwZmRkNjg2YjE3YTFlMCIKICAgIH0KICB9Cn0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"red_skull": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I4NTJiYTE1ODRkYTllNTcxNDg1OTk5NTQ1MWU0Yjk0NzQ4YzRkZDYzYWU0NTQzYzE1ZjlmOGFlYzY1YzgifX19"
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"sossur": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNlNzcwYzU5MmE4NGQ1ZjcyNjhmNjE3MjZkM2U0NzRmM2UyZDdmODMwYWYzMzEzZWIzNzhjNGQxZGQ3NjgyMSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"sushi": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE3ZWRhMWY2NWJkYzhlZDQxYWFhNGNjYWE0ZTJiZWQ2OTQ3MTRlMzI4NjdlZTE2YWYzMWY0YzQyZWYxZjI4In19fQ=="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"tacowl": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTE4OWI2MjEzMTlkOGIyODQ5Yjg4NmVlZWU3OTJiNDQ3Mzc1MTkxMGQ2MTA1NzRjZWRkYjAzM2MzMzkxZjc0OCJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"thoyy": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc1ZTA2NDQ4MGFjNjhjOWJkNTEwOTFmMjA2MDNhNWVmY2ZjNmY1NWVkNjZjOTI0ZTQzYjkyODU2ZDBiOWIzNyJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"unicorn": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzBiMzNiN2EzYjI0Zjc2YmQ4MGE2NWMzYTkzM2U3MTg4YmUzNTg0ODczNDJiZTE0M2MyMmE3NTgwYjRkMDBlMSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		},
+		"venom": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:player_head",
+						"components": {
+							"minecraft:profile": {
+								"name": "",
+								"id": [
+									0,
+									0,
+									0,
+									0
+								],
+								"properties": [
+									{
+										"name": "textures",
+										"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWJhNzQ0YTA2MTQ0MzFlMWU2OTUwZWZhYjY4ZDNjYzNmMjQ5ZmJiNWQ5N2ZkMDY3ZmZjNTg4NWQ4YjRmMWI4MSJ9fX0="
+									}
+								]
+							}
+						}
+					}
+				]
+			}
+		}
+	}
+}
